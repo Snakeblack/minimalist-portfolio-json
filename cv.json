@@ -1,12 +1,12 @@
 {
     "basics": {
-      "name": "Kelvin Miguel Guerrero Mite",
-      "label": "Full Stack Developer y aprendiz de Cloud Computing",
+      "name": "Manuel Michael Retamozo García",
+      "label": "Full Stack Developer",
       "image": "/me.webp",
-      "email": "kelvinguerrero2199@gmail.com",
-      "phone": "+34 688888888",
-      "url": "https://kelvinguerrero.dev",
-      "summary": "Apasionado de la informática, me dedico al desarrollo web. Constantemente busco aprender nuevas habilidades y mantenerme actualizado con las últimas tendencias tecnológicas. Actualmente, me estoy especializando en React, y tengo experiencia en HTML, CSS, JavaScript, Vue, Laravel, Bootstrap, Tailwind CSS, Node.js, Express, MongoDB, MySQL.",
+      "email": "hello@mretamozo.com",
+      "phone": "+34 666 666 666",
+      "url": "https://mretamozo.com",
+      "summary": "Apasionado por la informática y el desarrollo web, actualmente estoy enfocado en Angular para el frontend. Además, tengo habilidades en React y conocimientos en Next.js, que he aplicado en proyectos personales. Soy competente en HTML, CSS y JavaScript. En el backend, tengo experiencia con .NET, Java y Node.js, especialmente utilizando .NET. Mis conocimientos en bases de datos incluyen SQL Server, MongoDB y MySQL. Siempre estoy comprometido con el aprendizaje continuo y al tanto de las últimas tendencias tecnológicas.",
       "location": {
         "address": "",
         "postalCode": "000000",
@@ -17,95 +17,97 @@
       "profiles": [
         {
           "network": "LinkedIn",
-          "username": "Kelvin",
-          "url": "https://linkedin.com/in/kelvinguerreromite"
+          "username": "MMRetamozo",
+          "url": "https://www.linkedin.com/in/mmretamozo/"
         },
         {
           "network": "GitHub",
-          "username": "whoskelos",
-          "url": "https://github.com/whoskelos"
+          "username": "Snakeblack",
+          "url": "https://github.com/snakeblack"
         },
         {
           "network": "X",
-          "username": "whoskelos",
-          "url": "https://x.com/whoskelos"
+          "username": "michael_snake",
+          "url": "https://twitter.com/michael_snake"
         }
       ]
     },
     "work": [
       {
-        "name": "Grupo MailComms",
+        "name": "CEF.- Centro de Estudios Financieros",
         "position": "Desarrollador web",
-        "url": "https://mailcommsgroup.com/",
-        "startDate": "2023-12-14",
+        "url": "https://www.cef.es/",
+        "startDate": "2023-02-06",
         "endDate": null,
-        "summary": "Desarrollo de nuevas features para una aplicación de gestión de comunicaciones desarrollada en Laravel, Vue.js, MySQL, SolR",
+        "summary": "Desarrollo aplicaciones web desde cero usando Angular y .NET, con un fuerte enfoque en el frontend. Tengo amplia experiencia creando soluciones completas, desde el diseño inicial hasta la implementación y el lanzamiento.",
         "highlights": [
           "Started the company"
         ]
       },
       {
-        "name": "Grupo MailComms",
-        "position": "Programador en prácticas",
-        "url": "https://twitch.tv/midudev",
-        "startDate": "2023-10-01",
-        "endDate": "2023-12-13",
-        "summary": "Por una parte, maquetación y composición de documentos en la herramienta de Inspire Designer, por otro lado, se actualizaron las dependencias de una aplicación para la monitorización de los procesos de comunicaciones lanzados a través de otras aplicaciones desarrolladas en Laravel y Vue.js.",
-        "highlights": [
-          "Started the company"
-        ]
-      },
-      {
-        "name": "Sermicro",
+        "name": "CEF.- Centro de Estudios Financieros",
         "position": "Técnico de TI",
-        "startDate": "2023-06-19",
-        "endDate": "2023-09-30",
-        "summary": "Mantenimiento de hardware, soporte a usuarios a través de tickets con la herramienta Wrike, gestión de usuarios con AD Azure Active Directory, instalación y configuración de VPN.",
+        "url": "https://www.cef.es/",
+        "startDate": "2021-10-04",
+        "endDate": "2023-02-06",
+        "summary": "Experiencia en la instalación y configuración de software y hardware, ofreciendo soporte técnico tanto presencial como remoto a usuarios",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "La fábrica de software",
+        "position": "Programador",
+        "startDate": "2019-12-01",
+        "endDate": "2020-02-15",
+        "summary": "Experiencia en el desarrollo de aplicaciones de escritorio utilizando VB.NET y C#, incluyendo la creación de nuevas soluciones y el mantenimiento de las ya existentes. ",
         "highlights": [
           "Started the company"
         ]
       }
     ],
     "volunteer": [{
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
+      "organization": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
       "summary": "Description…",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        ""
       ]
     }],
     "education": [{
-      "institution": "IES El Cañaveral",
-      "url": "https://site.educa.madrid.org/ies.elcanaveral.mostoles/",
-      "area": "Técnico superior en desarrollo de aplicaciones web",
-      "studyType": "Certificate of Higher Education",
-      "startDate": "2020-09-19",
-      "endDate": "2023-06-09",
+      "institution": "42 Madrid (Fundacion Telefónica)",
+      "url": "https://www.42madrid.com/",
+      "area": "Campus de programación de software",
+      "studyType": "Universidad no oficial ni convencional",
+      "startDate": "2018-09-01",
+      "endDate": "2022-06-22",
       "score": "6.54",
       "courses": [
-        "DB1101 - Basic SQL"
+        "Piscine C",
+        "Piscine Shell",
+        "Core"
       ]
     }],
     "awards": [{
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }],
     "certificates": [{
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
+      "name": "",
+      "date": "",
+      "issuer": "",
+      "url": ""
     }],
     "publications": [{
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
       "summary": "Description…"
     }],
     "skills": [
@@ -131,38 +133,108 @@
         ]
       },
       {
-        "name": "Tailwind",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-        ]
-      },
-      {
         "name": "TypeScript",
         "level": "Avanzado",
         "keywords": [
-          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+          "Desarrollo Web", "Programación Orientada a Objetos", "Frontend", "Backend", "Fullstack"
         ]
       },
       {
-        "name": "Node",
+        "name": "Angular",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Framework", "CSS Framework", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      },
+      {
+        "name": ".NET",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Backend", "JavaScript", "Servidor"
         ]
       },
       {
-        "name": "MySQL",
+        "name": "Java",
         "level": "Avanzado",
         "keywords": [
-          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+          "Desarrollo de software", "Backend", "Servidor", "Programación Orientada a Objetos"
         ]
       },
       {
-        "name": "Git",
+        "name": "Nodejs",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "JavaScript Runtime"
+        ]
+      },
+      {
+        "name": "MongoDB",
+        "level": "Intermedio",
+        "keywords": [
+          "Base de Datos", "NoSQL", "Backend", "Servidor"
+        ]
+      },
+      {
+        "name": "SQL Server",
         "level": "Avanzado",
         "keywords": [
-          "Control de Versiones", "Colaboración", "Código Fuente"
+          "Base de Datos", "Backend", "Servidor"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "level": "Avanzado",
+        "keywords": [
+          "Base de Datos", "Backend", "Servidor"
+        ]
+      },
+      {
+        "name": "Firebase",
+        "level": "Intermedio",
+        "keywords": [
+          "Backend", "Servidor", "Base de Datos", "Desarrollo Web"
+        ]
+      },
+      {
+        "name": "Tailwind",
+        "level": "Master",
+        "keywords": [
+          "Diseño Responsive", "CSS Framework", "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "Bootstrap",
+        "level": "Avanzado",
+        "keywords": [
+          "Diseño Responsive", "CSS Framework", "Desarrollo Web"
+        ]
+      },
+      {
+        "name": "Astro",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Framework", "CSS Framework", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "Next.js",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Framework", "CSS Framework", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "Azure DevOps",
+        "level": "Avanzado",
+        "keywords": [
+          "Scrum", "Kanban", "CI/CD", "Despliegue Continuo", "Control de Versiones", "Colaboración", "Código Fuente", "Git"
         ]
       },
       {
@@ -173,102 +245,74 @@
         ]
       },
       {
-        "name": "Vue",
+        "name": "Git",
         "level": "Avanzado",
         "keywords": [
-          "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+          "Control de Versiones", "Colaboración", "Código Fuente"
         ]
       },
       {
-        "name": "React",
-        "level": "Avanzado",
+        "name": "Docker",
+        "level": "Intermedio",
         "keywords": [
-          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+          "Contenedores", "Desarrollo Web", "Backend", "Servidor"
         ]
       }
     ],
     "languages": [
       {
-        "language": "Spanish",
-        "fluency": "Native speaker"
+        "language": "Español",
+        "fluency": "Nativo"
       },
       {
-        "language": "English",
-        "fluency": "Advanced"
+        "language": "Ingles",
+        "fluency": "Intermedio"
       }
     ],
     "interests": [{
-      "name": "Wildlife",
+      "name": "Fotografía",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Coches", "Naturaleza", "Viajes", "Retratos", "Paisajes"
       ]
     }],
     "references": [{
-      "name": "Jane Doe",
-      "reference": "Reference…"
+      "name": "",
+      "reference": ""
     }],
     "projects": [
       {
-        "name": "Kelvin Guerrero",
+        "name": "Manuel Retamozo",
         "isActive": false,
         "description": "Web personal",
         "highlights": [
-          "Astro",
-          "Tailwind",
+          "Next.js",
+          "Styled Components",
           "Firebase",
           "JavaScript"
         ],
-        "url": "https://kelvinguerrero.dev"
+        "url": "https://mretamozo.com"
       },
       {
-        "name": "GameKeyZone",
+        "name": "Blog",
         "isActive": false,
-        "description": "Tienda de videojuegos",
+        "description": "Blog de desarrollo web y tecnología",
         "highlights": [
-          "React",
-          "Paypal",
+          "Next.js",
+          "Tailwindcss",
+          "Mdx"
+        ],
+        "url": "https://blog.mretamozo.com"
+      },
+      {
+        "name": "Device Manager",
+        "isActive": false,
+        "description": "Aplicación para gestionar dispositivos electrónicos, inventariado y demás.",
+        "highlights": [
+          "Next.js",
           "Tailwind",
-          "Firebase",
-          "MongoDB"
+          "MySql"
         ],
-        "url": "https://gamekzone.kelvinguerrero.dev"
-      },
-      {
-        "name": "TheGymVerse",
-        "isActive": false,
-        "description": "Guía de ejercicios con videos con la cantidad de series y repeticiones por ejercicios que realizo",
-        "highlights": [
-          "Angular",
-          "Node.js",
-          "MongoDB",
-          "JavaScript & TypeScript"
-        ],
-        "url": "https://gym.kelvinguerrero.dev"
-      },
-      {
-        "name": "Digital Dreams",
-        "isActive": false,
-        "description": "Dashboard para administración de usuarios y equipos.",
-        "highlights": [
-          "Angular",
-          "Node.js",
-          "Bootstrap",
-          "MongoDB"
-        ],
-        "url": "https://ddreams.kelvinguerrero.dev"
-      },
-      {
-        "name": "Pet Name Generator",
-        "isActive": false,
-        "description": "Aplicación para generar 3 nombres aleatorios para tu mascota (perro o gato)",
-        "highlights": [
-          "JavaScript",
-          "OpenAI",
-          "EJS",
-          "CSS"
-        ],
-        "url": "https://quiet-sunset-9039.fly.dev"
+        "url": "https://github.com/Snakeblack/device-manager"
       }
     ]
   }

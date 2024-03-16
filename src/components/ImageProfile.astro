@@ -1,0 +1,20 @@
+---
+import { basics } from "@cv";
+import { Picture } from "astro:assets";
+import localProfileImage from "../../public/me.webp";
+
+const { name } = basics;
+---
+
+<figure>
+  <Picture src={localProfileImage} formats={["avif", "webp"]} alt={name} class="img" />
+</figure>
+
+<style>
+  .img {
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    width: 128px;
+    height: 128px;
+  }
+</style>

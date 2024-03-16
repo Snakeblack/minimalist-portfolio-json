@@ -20,3 +20,13 @@ pnpm-debug.log*
 # macOS-specific files
 .DS_Store
 
+# public
+public/
+
+cv_en.json
+cv.json
+
+# firebase
+.firebaserc
+.gitignore
+.firebase/hosting.ZGlzdA.cache
