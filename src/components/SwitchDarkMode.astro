@@ -69,25 +69,29 @@
 </style>
 
 <script>
-    const switchButton = document.querySelector('.switch input');
-    const html = document.querySelector('html');
-    
-    // light / dark mode con localStorage
-    if (localStorage.getItem('theme') === 'dark') {
-      html.classList.add('dark');
+  const switchButton = document.querySelector(
+    ".switch input"
+  ) as HTMLInputElement;
+  const html = document.querySelector("html") as HTMLElement;
+
+  // light / dark mode con localStorage
+  if (html && switchButton) {
+    if (localStorage.getItem("theme") === "dark") {
+      html.classList.add("dark");
       switchButton.checked = true;
     } else {
-      html.classList.remove('dark');
+      html.classList.remove("dark");
       switchButton.checked = false;
     }
 
-    switchButton.addEventListener('change', () => {
+    switchButton.addEventListener("change", () => {
       if (switchButton.checked) {
-        html.classList.add('dark');
-        localStorage.setItem('theme', 'dark');
+        html.classList.add("dark");
+        localStorage.setItem("theme", "dark");
       } else {
-        html.classList.remove('dark');
-        localStorage.setItem('theme', 'light');
+        html.classList.remove("dark");
+        localStorage.setItem("theme", "light");
       }
     });
+  }
 </script>

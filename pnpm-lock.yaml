@@ -6,16 +6,16 @@ settings:
 
 dependencies:
   '@astrojs/check':
-    specifier: ^0.5.9
+    specifier: ^0.5.5
     version: 0.5.9(typescript@5.4.2)
   astro:
-    specifier: ^4.5.4
+    specifier: ^4.4.3
     version: 4.5.4(typescript@5.4.2)
   ninja-keys:
     specifier: ^1.2.2
     version: 1.2.2
   typescript:
-    specifier: ^5.4.2
+    specifier: ^5.3.3
     version: 5.4.2
 
 packages:
