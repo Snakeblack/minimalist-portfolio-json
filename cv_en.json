@@ -1,0 +1,226 @@
+{
+  "basics": {
+    "name": "Manuel Michael Retamozo García",
+    "label": "Full Stack Developer",
+    "image": "/me.webp",
+    "email": "hello@mretamozo.com",
+    "phone": "+34 666 666 666",
+    "url": "https://mretamozo.com",
+    "summary": "Passionate about computer science and web development, I'm currently focused on Angular for the frontend. Additionally, I have skills in React and knowledge of Next.js, which I've applied in personal projects. I'm proficient in HTML, CSS, and JavaScript. On the backend, I have experience with .NET, Java, and Node.js, especially using .NET. My database knowledge includes SQL Server, MongoDB, and MySQL. I'm always committed to continuous learning and keeping up with the latest technological trends.",
+    "location": {
+      "postalCode": "000000",
+      "city": "Madrid",
+      "countryCode": "ES",
+      "region": "Spain"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "MMRetamozo",
+        "url": "https://www.linkedin.com/in/mmretamozo/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Snakeblack",
+        "url": "https://github.com/snakeblack"
+      },
+      {
+        "network": "X",
+        "username": "michael_snake",
+        "url": "https://twitter.com/michael_snake"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "CEF.- Centro de Estudios Financieros",
+      "position": "Web Developer",
+      "url": "https://www.cef.es/",
+      "startDate": "2023-02-06",
+      "endDate": null,
+      "summary": "I develop web applications from scratch using Angular and .NET, with a strong focus on the frontend. I have extensive experience creating complete solutions, from initial design to implementation and deployment.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "CEF.- Centro de Estudios Financieros",
+      "position": "IT Technician",
+      "url": "https://www.cef.es/",
+      "startDate": "2021-10-04",
+      "endDate": "2023-02-06",
+      "summary": "Experience in installing and configuring software and hardware, providing technical support both onsite and remotely to users.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "La fábrica de software",
+      "position": "Programmer",
+      "startDate": "2019-12-01",
+      "endDate": "2020-02-15",
+      "summary": "Experience in desktop application development using VB.NET and C#, including creating new solutions and maintaining existing ones.",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "summary": "Description…",
+      "highlights": [""]
+    }
+  ],
+  "education": [
+    {
+      "institution": "42 Madrid (Fundacion Telefónica)",
+      "url": "https://www.42madrid.com/",
+      "area": "Software Programming Campus",
+      "studyType": "Unofficial and non-conventional university",
+      "startDate": "2018-09-01",
+      "endDate": "2022-06-22",
+      "score": "6.54",
+      "courses": ["Piscine C", "Piscine Shell", "Core"]
+    }
+  ],
+  "awards": [
+    {
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "url": ""
+    }
+  ],
+  "publications": [
+    {
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master"
+    },
+    {
+      "name": "CSS",
+      "level": "Master"
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master"
+    },
+    {
+      "name": "TypeScript",
+      "level": "Advanced"
+    },
+    {
+      "name": "Angular",
+      "level": "Master"
+    },
+    {
+      "name": "React",
+      "level": "Advanced"
+    },
+    {
+      "name": ".NET",
+      "level": "Advanced"
+    },
+    {
+      "name": "Java",
+      "level": "Advanced"
+    },
+    {
+      "name": "Nodejs",
+      "level": "Intermediate"
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermediate"
+    },
+    {
+      "name": "SQL Server",
+      "level": "Advanced"
+    },
+    {
+      "name": "MySQL",
+      "level": "Advanced"
+    },
+    {
+      "name": "Firebase",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Tailwind",
+      "level": "Master"
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Advanced"
+    },
+    {
+      "name": "Astro",
+      "level": "Advanced"
+    },
+    {
+      "name": "Next.js",
+      "level": "Advanced"
+    },
+    {
+      "name": "Azure DevOps",
+      "level": "Advanced"
+    },
+    {
+      "name": "GitHub",
+      "level": "Advanced"
+    },
+    {
+      "name": "Git",
+      "level": "Advanced"
+    },
+    {
+      "name": "Docker",
+      "level": "Intermediate"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Photography",
+      "keywords": ["Cars", "Nature", "Travel", "Portraits", "Landscapes"]
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "Manuel Retamozo",
+      "isActive": false,
+      "description": "Personal website",
+      "highlights": ["Next.js", "Styled Components", "Firebase", "JavaScript"],
+      "url": "https://mretamozo.com"
+    },
+    {
+      "name": "Blog",
+      "isActive": false,
+      "description": "Web development and technology blog",
+      "highlights": ["Next.js", "Tailwindcss", "Mdx"],
+      "url": "https://blog.mretamozo.com"
+    },
+    {
+      "name": "Device Manager",
+      "isActive": false,
+      "description": "Application for managing electronic devices, inventory, and more.",
+      "highlights": ["Next.js", "Tailwind", "MySql"],
+      "url": "https://github.com/Snakeblack/device-manager"
+    }
+  ]
+}
