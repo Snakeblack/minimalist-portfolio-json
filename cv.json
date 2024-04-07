@@ -281,16 +281,15 @@
     }],
     "projects": [
       {
-        "name": "Manuel Retamozo",
-        "isActive": false,
-        "description": "Web personal",
+        "name": "Recambios las Margaritas",
+        "isActive": true,
+        "description": "Landing page para una tienda de recambios de coches",
         "highlights": [
-          "Next.js",
-          "Styled Components",
-          "Firebase",
-          "JavaScript"
+          "Astro",
+          "Tailwindcss",
+          "Vercel"
         ],
-        "url": "https://mretamozo.com"
+        "url": "https://recambioslasmargaritas.es"
       },
       {
         "name": "Blog",
