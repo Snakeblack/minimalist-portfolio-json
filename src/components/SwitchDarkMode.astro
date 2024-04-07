@@ -66,6 +66,12 @@
   input:checked + .slider:before {
     transform: translateX(2.8em) rotate(360deg);
   }
+
+  @media print {
+    .no-print {
+      display: none;
+    }
+  }
 </style>
 
 <script>
