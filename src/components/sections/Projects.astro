@@ -60,6 +60,10 @@ import { projects } from "@cv";
         height: 100%;
     }
 
+    html.dark article {
+        border-color: #35393b;
+    }
+
     article header {
         flex: 1;
     }
@@ -67,6 +71,10 @@ import { projects } from "@cv";
     html.dark article header {
         & a, h3 {
             color: #bbbbbb!important;
+        }
+
+        & a:hover, h3:hover {
+            color: #f3f3f3!important;
         }
     }
 
