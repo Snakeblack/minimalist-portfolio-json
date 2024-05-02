@@ -64,6 +64,12 @@ import { projects } from "@cv";
         flex: 1;
     }
 
+    html.dark article header {
+        & a, h3 {
+            color: #bbbbbb!important;
+        }
+    }
+
     article h3 {
         margin-bottom: 4px;
     }
@@ -91,6 +97,7 @@ import { projects } from "@cv";
         flex-wrap: wrap;
         gap: 4px;
         font-size: .6rem;
+        border-top: none !important
     }
 
     footer span {
@@ -100,5 +107,16 @@ import { projects } from "@cv";
         font-size: .6rem;
         font-weight: 500;
         padding: 0.2rem 0.6rem;
+    }
+
+    /* Dark mode*/
+    html.dark footer span {
+        background: #333!important;
+        color: white;
+    }
+
+    .dark a {
+      color: #dddad6 !important;
+      border-color: #35393b !important;
     }
 </style>
