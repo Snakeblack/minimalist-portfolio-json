@@ -283,7 +283,7 @@
       {
         "name": "Baterias Express",
         "isActive": true,
-        "description": "Landing page para una servicio a domicilio de venta y reparaciones de baterias",
+        "description": "Landing page para una servicio delivery de venta y reparaciones de baterias",
         "highlights": [
           "Astro",
           "Tailwindcss",
