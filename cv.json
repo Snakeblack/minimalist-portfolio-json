@@ -33,12 +33,23 @@
       ]
     },
     "work": [
+        {
+        "name": "Exis-TI (Indra - DGC)",
+        "position": "Ingeniero de Software",
+        "url": "https://www.indracompany.com/es/minsait",
+        "startDate": "2024-06-03",
+        "endDate": null,
+        "summary": "En Indra, desarrollo aplicaciones Fullstack para el proyecto de Valoraciones Catastrales del Gobierno de España, utilizando .NET, Angular, y PL/SQL. Aseguro rendimiento, seguridad y colaboro con equipos multidisciplinarios siguiendo metodologías ágiles para modernizar procesos catastrales.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
       {
         "name": "CEF.- Centro de Estudios Financieros",
         "position": "Desarrollador web",
         "url": "https://www.cef.es/",
-        "startDate": "2023-02-06",
-        "endDate": null,
+        "startDate": "2022-10-06",
+        "endDate": "2024-05-31",
         "summary": "Desarrollo aplicaciones web desde cero usando Angular y .NET, con un fuerte enfoque en el frontend. Tengo amplia experiencia creando soluciones completas, desde el diseño inicial hasta la implementación y el lanzamiento.",
         "highlights": [
           "Started the company"
